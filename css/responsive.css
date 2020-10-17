@@ -1,0 +1,544 @@
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  .delivery span{
+    font-size: 12px;
+
+  }
+
+  .navbar-toggler-icon{
+    font-size: 13px;
+  }
+
+  .navbar-toggler{
+    padding: 4px 4px;
+    font-size: 0;
+    border-radius: 0;
+  }
+
+  .banner-text p{
+    font-size: 13px;
+    padding: 6px 6px;
+    width: 100%;
+  }
+
+  .banner-text h1{
+    font-size: 65px;
+    line-height: 65px;
+    margin-bottom: 0;
+  }
+
+  .banner-text h3{
+    font-size: 45px;
+  }
+
+  header{
+    padding-top: 8px;
+    padding-bottom: 0px;
+  }
+
+  .banner-left{
+    height: 40vh;
+  }
+
+  .circle{
+    width: 120px;
+    height: 120px;
+    bottom: -30px;
+    left: 20px;
+  }
+
+  .dot-circle{
+    width: 100px;
+    height: 100px;
+  }
+
+  .dot-circle p{
+    font-size: 40px;
+    left: 18px;
+    bottom: 26px;
+  }
+
+  .dot-circle span{
+    font-size: 25px;
+  }
+
+  .dot-circle h2{
+    font-size: 25px;
+    bottom: 12px;
+    left: 22px;
+  }
+
+  .bottom-text{
+    font-size: ;
+    bottom: 54px;
+    padding-left: 10px;
+  }
+
+  .bottom-text p{
+    font-size: 17px;
+  }
+
+  .bottom-text h2{
+    font-size: 25px;
+  }
+
+  .top-text p{
+    font-size: 17px;
+  }
+
+  .top-text h2{
+    font-size: 25px;
+  }
+
+  .top-text{
+    padding-top: 5px;
+    padding-left: 10px;
+  }
+
+  .left-text{
+    padding-top: 5px;
+    padding-left: 10px;
+  }
+
+  .left-text p{
+    font-size: 17px;
+  }
+
+  .left-text h2{
+    font-size: 25px;
+  }
+
+  .right-top{
+    padding-bottom: 19px;
+  }
+
+  .try{
+    padding: 55px 0;
+  }
+
+  .gal-top button{
+    width: 22%;
+    font-size: 18px;
+  }
+
+  .gal-top h1{
+    font-size: 32px;
+  }
+
+  .gal-top p{
+    font-size: 13px;
+  }
+
+  .gal-btm h3{
+    padding-top: 8px;
+    font-size: 23px;
+  }
+
+  .gal-btm p{
+    font-size: 12px;
+    margin-top: 8px;
+    margin-bottom: 20px;
+  }
+
+  .gal-mdl{
+    margin-top: -32px;
+  }
+
+  .gal-btm button{
+    width: 50%;
+    padding: 6px 0;
+    font-size: 14px;
+  }
+
+  .gal-btm{
+    padding-top: 70px;
+    padding-bottom: 60px;
+  }
+
+  .slider-left h2{
+    font-size: 21px;
+  }
+
+  .slider-left h1{
+    font-size: 25px;
+  }
+
+  .slider-left{
+    padding-right: 0;
+  }
+
+  .slider-left p{
+    font-size: 13px;
+    margin-top: 20px;
+  }
+
+  .slider-box{
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+  .owl-theme .owl-dots .owl-dot span{
+    width: 9px;
+    height: 9px;
+    margin: 5px 3px;
+  }
+  .slider{
+    padding-top: 20px;
+    padding-bottom: 50px;
+  }
+
+  .reserve{
+    height: 450px;
+    padding-top: 35px;
+  }
+
+  .find-form input{
+    padding: 8px 10px;
+    margin-bottom: 15px;
+    font-size: 13px;
+  }
+
+  .find-form form{
+    margin-left: 0;
+  }
+
+
+  .find-form{
+    padding-top: 30px;
+  }
+
+  .foot-left{
+    padding-right: 0;
+  }
+
+  .foot-left p{
+    padding-top: 30px;
+  }
+
+  .foot-top h6{
+    padding-left: 10px;
+    font-size: 14px;
+  }
+
+  .ksm{
+    padding-left: 0;
+  }
+
+  .right-btm h6{
+    font-size: 14px;
+  }
+
+  .footer{
+    padding: 20px 15px 0px 15px;
+  }
+
+  .last-icon{
+    width: 100%;
+    margin-top: 155px;
+  }
+
+
+
+}
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 560px) {
+  
+.navbar{
+  padding: 0;
+}
+  .navbar-light .navbar-toggler{
+    margin-left: 0 !important;
+    padding: 3px 5px;
+  }
+
+.navbar-light .navbar-toggler-icon{
+  font-size: 13px;
+}
+
+.delivery{
+  display: none;
+}
+
+
+.delivery span{
+  font-size: 12px;
+}
+
+.logos{
+  margin-bottom: 10px;
+}
+
+.banner-text p{
+  font-size: 13px;
+  padding: 6px 13px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.banner-text h1{
+  font-size: 60px;
+  text-align: center;
+  line-height: 65px;
+}
+
+.banner-text h3{
+  font-size: 42px;
+  text-align: center;
+}
+
+.banner-left{
+  height: 35vh;
+  text-align: center;
+}
+
+.img1{
+  margin-top: -10px;
+}
+
+.circle{
+  width: 100px;
+  height: 100px;
+  bottom: -8px;
+  left: 32px;
+}
+
+.dot-circle{
+  width: 90px;
+  height: 90px;
+  bottom: 4px;
+  left: 4px;
+}
+
+.dot-circle p{
+  font-size: 35px;
+  line-height: 38px;
+  left: 18px;
+  bottom: 30px;
+}
+
+.dot-circle span{
+  font-size: 22px;
+}
+
+.dot-circle h2{
+  font-size: 23px;
+  left: 20px;
+  bottom: 11px;
+}
+
+.banner{
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+header{
+  padding-bottom: 10px;
+}
+
+.try{
+  padding: 60px 0;
+}
+
+.left-img{
+  margin-bottom: 20px;
+}
+
+.left-text p{
+  font-size: 16px;
+}
+
+.left-text h2{
+  font-size: 23px;
+}
+
+.top-text, .left-text{
+  padding-left: 10px;
+  padding-top: 8px;
+}
+
+.top-text p{
+  font-size: 16px;
+}
+
+.top-text h2{
+  font-size: 23px;
+}
+
+.bottom-text{
+  padding-left: 10px;
+  bottom: 54px;
+}
+
+.bottom-text p{
+  font-size: 16px;
+}
+
+.bottom-text h2{
+  font-size: 23px;
+}
+
+.right-top{
+  padding-bottom: 20px;
+}
+
+.gal-top button{
+  width: 44%;
+  font-size: 17px;
+}
+
+.gal-top h1 {
+  font-size: 28px;
+}
+
+.gal-top p{
+  font-size: 13px;
+}
+
+.ksm1{
+  margin-top: -70px;
+}
+
+.gal-btm h3{
+  font-size: 24px;
+}
+
+ p{
+  font-size: 12px;
+  margin-top: 7px;
+  margin-bottom: 18px;
+}
+
+.gal-btm{
+  padding-bottom: 25px;
+}
+
+.gal-mdl{
+  margin-top: 35px;
+  margin-bottom: 30px;
+}
+
+.gal-btm button{
+  width: 35%;
+  font-size: 15px;
+}
+
+.slider-left h2{
+  font-size: 20px;
+}
+
+.slider-left{
+  padding-right: 0;
+}
+
+.slider-left h1{
+  font-size: 22px;
+}
+
+.slider-box{
+  text-align: center;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.slider-left p{
+  font-size: 13px;
+  margin-top: 18px;
+}
+
+.owl-theme .owl-dots .owl-dot span{
+  width: 9px;
+  height: 9px;
+  margin: 5px 2px;
+}
+
+.reserve{
+  height: 243px;
+  padding-top: 10px;
+}
+
+.reserve h2{
+  font-size: 16px;
+  margin-bottom: 3px;
+}
+
+.reserve h1{
+  font-size: 18px;
+  margin-bottom: 0;
+}
+
+.find-form input{
+  padding: 2px 6px;
+  margin-bottom: 0px; 
+  width: 60%;
+  border: none;
+  border-bottom: 1px solid #a4a4a4;
+  border-radius: 0;
+  font-size: 11px;
+}
+
+.find-form{
+  padding-top: 10px;
+}
+
+.find-form form{
+  margin-left: 0;
+}
+
+.footer{
+  padding: 30px 15px 0 15px;
+}
+
+.foot-left{
+  text-align: center;
+}
+
+.ksm{
+  text-align: center;
+}
+
+.foot-left p{
+  padding-top: 15px;
+  margin-bottom: 0px;
+}
+
+.foot-left h6{
+  display: none;
+  /*margin-bottom: 30px;*/
+}
+
+.foot-left .fa{
+  display: none;
+}
+
+.foot-top{
+  margin-top: 55px;
+}
+
+.last-icon{
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.last-icon button{
+  margin: 0 5px;
+}
+
+.last-icon i{
+  line-height: 30px;
+}
+
+  
+}
