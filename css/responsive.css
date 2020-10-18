@@ -252,13 +252,13 @@
   ##Screen = B/w 320px to 479px
 */
 
-@media (min-width: 320px) and (max-width: 560px) {
+@media (min-width: 320px) and (max-width: 640px) {
   
 .navbar{
   padding: 0;
 }
   .navbar-light .navbar-toggler{
-    margin-left: 0 !important;
+    
     padding: 3px 5px;
   }
 
@@ -297,9 +297,13 @@
   text-align: center;
 }
 
+.banner-text{
+  text-align: center;
+}
+
 .banner-left{
   height: 35vh;
-  text-align: center;
+  text-align: center !important;
 }
 
 .img1{
